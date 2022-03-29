@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on setting my profile on freelancing platforms
 - 🌱 I’m currently learning Tensorflow and Pytorch
-- 👯 I’m looking to collaborate on python data analysis projects
+- 👯 I’m looking to collaborate on python data analysis and machine learning projects
 
 ### Skills
 - Python, Pandas, NumPy
