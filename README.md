@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Tensorflow and Pytorch
 - 👯 I’m looking to collaborate on python data analysis projects
 
-## Skills:
+### Skills
 - Python, Pandas, NumPy
 - Matplotlib, Seaborn
 - Sci-kit Learn
