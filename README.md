@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - Sci-kit Learn
 
 
-[![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidsi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidsi&show_icons=true&theme=tokyonight)
