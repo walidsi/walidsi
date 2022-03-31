@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on setting my profile on freelancing platforms
 - 🌱 I’m currently learning Tensorflow and Pytorch
 - 👯 I’m looking to collaborate on python data analysis and machine learning projects
 
