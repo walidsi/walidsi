@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Tensorflow and Pytorch
 - 👯 I’m looking to collaborate on python data analysis and machine learning projects
 
-### Skills
+### Skills and Tools
 - Python, Pandas, NumPy
 - Matplotlib, Seaborn
 - Sci-kit Learn
+- Jupyter, VSCode, Git, Github
 
 
 [![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidsi&show_icons=true&theme=tokyonight)
