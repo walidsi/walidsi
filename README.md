@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Tensorflow and Pytorch
+- 🌱 I’m currently learning Tensorflow
 - 👯 I’m looking to collaborate on python data analysis and machine learning projects
 
 ### Skills and Tools
