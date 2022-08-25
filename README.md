@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### Skills and Tools
 - Python, Pandas, NumPy
 - Matplotlib, Seaborn
-- Sci-kit Learn
+- Sci-kit Learn, Tensorflow
 - Jupyter, VSCode, Git, Github
 
 
