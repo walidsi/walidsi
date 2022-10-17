@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - Jupyter, VSCode, Git, Github
 
 
-[![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidsi&show_icons=true&theme=tokyonight)
+![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidsi&show_icons=true&theme=tokyonight)
