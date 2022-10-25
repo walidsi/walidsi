@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Tensorflow, HTML, CSS, JS, Bootstrap and React
+- 🌱 I’m currently learning HTML, CSS, JS, Bootstrap and React
 - 👯 I’m looking to collaborate on python data analysis and machine learning projects
 
 ### Skills and Tools
