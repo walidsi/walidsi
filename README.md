@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Golang
-- 👯 I’m looking to collaborate on Go, Python and machine learning projects
+- 🌱 I’m currently working as a Django Backend Developer
+- 👯 I’m looking to collaborate on Go, Python Django projects
 
 ### Skills and Tools
 - Python, Pandas, NumPy
 - Matplotlib, Seaborn
 - Sci-kit Learn, Tensorflow
-- Jupyter, VSCode, Git, Github
+- Jupyter, VSCode, Git, Github, Cursor
+- Django, Celery, Postgres, Google Cloud Platform, Docker, Podman
 
 
 ![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidsi&show_icons=true&theme=tokyonight)
