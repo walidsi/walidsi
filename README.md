@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - Matplotlib, Seaborn
 - Sci-kit Learn, Tensorflow
 - Jupyter, VSCode, Git, Github, Cursor
-- Django, ORM, Celery, Postgres, Google Cloud Platform, Docker, Podman
+- Django, ORM, Celery, Postgres, Google Cloud Platform, Azure, Docker, Podman
 
 
 ![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidsi&show_icons=true&theme=tokyonight)
